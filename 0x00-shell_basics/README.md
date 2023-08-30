@@ -5,3 +5,4 @@ added new script to list hidden files
 script 5 used to arrange files numerically
 6th file creates a directory
 created file 7 to move a file called betty
+created script to delete moved betty file
